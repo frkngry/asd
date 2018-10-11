@@ -1,0 +1,2 @@
+printf "Merhaba Dünya";
+
